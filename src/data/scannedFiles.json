@@ -1,0 +1,965 @@
+[
+  {
+    "path": "Game Files/BIN/CAMMOV0.BIN",
+    "name": "CAMMOV0.BIN",
+    "size": 145888,
+    "md5": "adb70ef267172615f52544e543dc9049",
+    "sha256": "d397f6105e5e2167c7225a1541adf3f2ef13101861a70637ea11a8189a432d5d",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/CAMMOV1.BIN",
+    "name": "CAMMOV1.BIN",
+    "size": 160000,
+    "md5": "0f0b753234ec71ad04a34d5a6eb845f9",
+    "sha256": "04e87b75a1877a0bf7580c2054ffa9aa1279f082b5d9cd4f481d63b1dff58ccd",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/CAMMOV2.BIN",
+    "name": "CAMMOV2.BIN",
+    "size": 67200,
+    "md5": "6b3b1dff71c0b7746fecd3ed2a928446",
+    "sha256": "7472c1472665890bfe5ca7a0cbb42de62f63800f4ad56e7b7c97a87c0fac935f",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/CAMMOV3.BIN",
+    "name": "CAMMOV3.BIN",
+    "size": 2800,
+    "md5": "f753966c3e0f3634119af006cfdae018",
+    "sha256": "771daef0f47b04c1f03eda38de995818cd5bc89e099309e79829a3f071a29e01",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_ADV.BIN",
+    "name": "L_ADV.BIN",
+    "size": 19712,
+    "md5": "a0ac31f11fcca3c69d04ebb995c2d827",
+    "sha256": "4641d30251edae26c113bcd6c509d4beb30b7f44607d3142bb4098145dea99d4",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_COMMON.BIN",
+    "name": "L_COMMON.BIN",
+    "size": 9280,
+    "md5": "b13f294dcf5f81ccf118d369e7b5a7be",
+    "sha256": "2952c59cc1b1bb98b898b27453482272cb23e79c78bcd3f9ec2500b15f4c3655",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_FANG.BIN",
+    "name": "L_FANG.BIN",
+    "size": 9536,
+    "md5": "ef3a272f575966092ff87ce3a31ab693",
+    "sha256": "7fc77886b56508efbb7169daf064c4c7cb8383a40d9021f4548628517e18ad84",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_LOGO.BIN",
+    "name": "L_LOGO.BIN",
+    "size": 2048,
+    "md5": "54e52d9f67d24eb437e0e34e4f2531d4",
+    "sha256": "6f7f62aa89aa27b9285a1197a8714aece8e0f5d509ac318ddab9b4a9209671b8",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_MINI_C.BIN",
+    "name": "L_MINI_C.BIN",
+    "size": 16640,
+    "md5": "45f157dab70461ecfe862d6f705c1388",
+    "sha256": "5082ae8f7ed53247cd94e746af2f6814c63890ee9846e6c41609879ede12ffb9",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_NAME.BIN",
+    "name": "L_NAME.BIN",
+    "size": 11264,
+    "md5": "baab759c4ce8aa8f06182065526bed5a",
+    "sha256": "a5c73f2a800f0ba30a3e9cb2166dd1298ac464187d57f6d766efa5ef42af6b8e",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_RANK.BIN",
+    "name": "L_RANK.BIN",
+    "size": 3072,
+    "md5": "6d72c568b92ec5cf1614163798909d29",
+    "sha256": "242f946bd36c2224e92aaef4fc2217c2c5a8bd1e45607d63530c2826eb90dee5",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_SELECT.BIN",
+    "name": "L_SELECT.BIN",
+    "size": 4608,
+    "md5": "6024df021b87630e88ed3e23d96176ec",
+    "sha256": "5e96e5829149f4e390d9d1bf9ca379b2c62a22b0c6100c38091e8f2ab419a41a",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_STG10.BIN",
+    "name": "L_STG10.BIN",
+    "size": 17408,
+    "md5": "4268a90e03c76ddf9c00eed5c4b22e5e",
+    "sha256": "21210739aeeaafe4dcc5ae95b208a4b88349fae96a503ce4ba723a2f3aeca03d",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_STG11.BIN",
+    "name": "L_STG11.BIN",
+    "size": 9472,
+    "md5": "ee61be4c0a072874385d7fd5bfa05f7f",
+    "sha256": "5c99777fa043f88827f6a88fdd2123cf3e635a6877ba05cd63f0864bba67e74e",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_STG12.BIN",
+    "name": "L_STG12.BIN",
+    "size": 11904,
+    "md5": "088f68a41165518de06f3dfa5411537e",
+    "sha256": "c757939b32a8e44a6ae9d088def20edda2e9d324c22e044f48a87a608de31ea8",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_STG1C.BIN",
+    "name": "L_STG1C.BIN",
+    "size": 5568,
+    "md5": "f87cd784532d5c738fb9ffaafeff8c7d",
+    "sha256": "8a9528ad810ea6b7900915d3386bdf24e8c98345e21f3e13ac13d6b34bcf644d",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_STG20.BIN",
+    "name": "L_STG20.BIN",
+    "size": 9280,
+    "md5": "f80546e33e3f649e817ae3cc8cc1cc7b",
+    "sha256": "2ed1d774b57ee0e69987ad6078618e0829306e1141b99da0890e98d6c302e9ae",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_STG21.BIN",
+    "name": "L_STG21.BIN",
+    "size": 4736,
+    "md5": "1d4673b5040dabab348888cbc82d8a1e",
+    "sha256": "bd9c8e85f988ddb3e7543e76599109027a0b11db9749368ff945b5874874b5b3",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_STG22.BIN",
+    "name": "L_STG22.BIN",
+    "size": 6720,
+    "md5": "998fa623e96c199b54bbaa74c5d5cb8e",
+    "sha256": "5578d907b3f73b4d030ef24532567f1386572f2237c4276c3be69acd76e50f8b",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_STG2C.BIN",
+    "name": "L_STG2C.BIN",
+    "size": 6016,
+    "md5": "e774728f7ef5e2a4001d832659fd46c2",
+    "sha256": "5b56b69de109e0fafa088be2bd0032de6d71c19c904997e608ddd510763f13b8",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_STG30.BIN",
+    "name": "L_STG30.BIN",
+    "size": 5952,
+    "md5": "85169c02e45e4ac7f8ad90eba991d32c",
+    "sha256": "3e3750bb074710f8c8d4b14897299d59cb461bbdb1c52611f244181623261598",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_STG31.BIN",
+    "name": "L_STG31.BIN",
+    "size": 8128,
+    "md5": "d1d58876fd55d4fbc1f446dfe77c5856",
+    "sha256": "ccff070fa86fcbdfba85cc6d0ea5a7610a8c45f2a67bbbbd800aa9050e5523cf",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_STG32.BIN",
+    "name": "L_STG32.BIN",
+    "size": 10752,
+    "md5": "473fa593f377f88aac25bc7906edd77f",
+    "sha256": "0ef8bee9959be83eba5bd9045cac6d3141e991edd8b7e729ea1489b71c6fc1dd",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_STG3C.BIN",
+    "name": "L_STG3C.BIN",
+    "size": 4544,
+    "md5": "f5f653e497b3c0b426c2d5b327b4cff3",
+    "sha256": "1549d7fb080a4fab96ebbc25d5d56a674c8b2ade6d9bd455083992ba0caf4d34",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/L_TITLE.BIN",
+    "name": "L_TITLE.BIN",
+    "size": 1216,
+    "md5": "961b52a3d778743773d3e91b7f8d5a64",
+    "sha256": "20bad94978fc85a0a7f0900468ba16664c10e263f882ab6210bd2e1e4a1d3bf7",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/MOTADV.BIN",
+    "name": "MOTADV.BIN",
+    "size": 178480,
+    "md5": "7aaa0261d3bdbc5a406f7fdf984446ac",
+    "sha256": "9e26162d2dc3458ecb8b1698e21ac6741bde0736377db9da154fa2b31d7de9a3",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/MOTCMN.BIN",
+    "name": "MOTCMN.BIN",
+    "size": 343344,
+    "md5": "5df1cb3bd5fa121b8a06179464866c3a",
+    "sha256": "dd6fc1450fc50c7dbcaff038dc1190e004bb854ff02ea77ce0cec084f4aa796e",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/MOTFAED.BIN",
+    "name": "MOTFAED.BIN",
+    "size": 152352,
+    "md5": "8d2e38fd88cb411c0ce5023f618f0e5b",
+    "sha256": "ed64ab3e8f45f1c1fcdc075c07acdaee3e2ad53e9d3a7d407c20920d4389f595",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/MOTINT.BIN",
+    "name": "MOTINT.BIN",
+    "size": 115736,
+    "md5": "b5ce241ca63d406afd0a5f1cf54f436a",
+    "sha256": "56675fb1f698a2281fdc3a96b5bde33afb1d2c2f49eb0ffc3e1b9361bbd823c6",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/MOTSTG1.BIN",
+    "name": "MOTSTG1.BIN",
+    "size": 121992,
+    "md5": "13a713f74721d0c1f339c9057c6b9124",
+    "sha256": "886732ac9ad10402ae6b49279e1ae77340af508964f576cd08c3875f4a52a48d",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/MOTSTG2.BIN",
+    "name": "MOTSTG2.BIN",
+    "size": 77832,
+    "md5": "34f6f26a15a19a131abe5ad42344406a",
+    "sha256": "e8ba76ed8a74246ba281924b9e9f810c55ac789d67d927e419ef83117d15eb9f",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/MOTSTG3.BIN",
+    "name": "MOTSTG3.BIN",
+    "size": 55384,
+    "md5": "c5b329db99ec4ac6bd18a938f52c2260",
+    "sha256": "fd3f7895c18dabffab7e485c2ff6806e88c7c2027eacba282cb96843933dceab",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_ADV.BIN",
+    "name": "P_ADV.BIN",
+    "size": 460082,
+    "md5": "911a89d71b12bba04c5c50efb10b949d",
+    "sha256": "79bc010bd04e1d13bb241aa115e41520861f99b19c3f6c6cb705482d50998898",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_COMMON.BIN",
+    "name": "P_COMMON.BIN",
+    "size": 325576,
+    "md5": "daf63dc9898a42ba86dd92bbaed80fcf",
+    "sha256": "9a76e5f4824dc3bc7711c9e51e0a0091a6472368d292ac8544fea57e7b718a5f",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_FANG.BIN",
+    "name": "P_FANG.BIN",
+    "size": 355534,
+    "md5": "f7fcf3e8fab1baeaeb775d7ea6d00a48",
+    "sha256": "588c346e69b31af31297b78a04c7db383c13a152634253b742c2b5cbd9db188f",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_MINI_C.BIN",
+    "name": "P_MINI_C.BIN",
+    "size": 49822,
+    "md5": "9b5f4f75d5907c72499fc5d5e37112f3",
+    "sha256": "84dd16296ab08633a483a4a011d5e8758106fa155f05c0f1f74753e96c6fc945",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_NAME.BIN",
+    "name": "P_NAME.BIN",
+    "size": 22914,
+    "md5": "5a80296b2afc207ed0289ebfb955b013",
+    "sha256": "f8378be4ea77a33e750d4fe24dad4210c3e65c3037d82b98d6b4a360d710fda4",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_OPTION.BIN",
+    "name": "P_OPTION.BIN",
+    "size": 576,
+    "md5": "5dc6b76a6d67213091d30f3eb26baf92",
+    "sha256": "33d51d14e5532f330b384a92de7479e17f2c593a3afb45a12002ba5e2e03898c",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_SEL.BIN",
+    "name": "P_SEL.BIN",
+    "size": 1396,
+    "md5": "97af433e85390d688c16a107afe3ce41",
+    "sha256": "f228c7cccb8379e6a573a882685cd5d72f3bc10c9ea87faae56006eb6b9917a1",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_SELECT.BIN",
+    "name": "P_SELECT.BIN",
+    "size": 1500,
+    "md5": "b1540ab52dd94dc78ca218e1d3025c13",
+    "sha256": "2be0c35a246394b92e949fab37014d74f4dc209e355ba159a92f817bbd6813df",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_STG10.BIN",
+    "name": "P_STG10.BIN",
+    "size": 575756,
+    "md5": "3c62cd87810bb76d49bcf62c955bfde7",
+    "sha256": "75e1a2b27ce7c3b7fa56b1eea80231a4e3504003fb10191d4ddae63dc85ea54e",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_STG11.BIN",
+    "name": "P_STG11.BIN",
+    "size": 607344,
+    "md5": "e6241fe70d91e806d619bd2c5b117fa7",
+    "sha256": "7d2b35e867a2a66ac2c526c765c19e1b06090f4c888aa742f4037cb2f4384486",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_STG12.BIN",
+    "name": "P_STG12.BIN",
+    "size": 637338,
+    "md5": "0f51cde7a5fa62bac7ad8b486e7a68fa",
+    "sha256": "85aa37e9e2647924ea606085c0919fa01676de50c6ea9edcb49e9c84bf6c8e8c",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_STG1C.BIN",
+    "name": "P_STG1C.BIN",
+    "size": 125980,
+    "md5": "e83fffc7c82da935bf5e65569c58d165",
+    "sha256": "7210e27d86eae2c4067a88d09796e80b0581c451b4bc1237367f6dee81a382e4",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_STG20.BIN",
+    "name": "P_STG20.BIN",
+    "size": 417214,
+    "md5": "525406d0503ad08c03153ed063e7cc7f",
+    "sha256": "ed06f69680f5c7a52ed1e4a13ccc85dab08c5c0aafcdfefbb53f1c317f660f0a",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_STG21.BIN",
+    "name": "P_STG21.BIN",
+    "size": 270664,
+    "md5": "cde7a67328b935ccd3b82777e308c594",
+    "sha256": "d243fa2fa9323f4bc39797dc0d7af31c60523c80e7f80f6c385666dfaa086a10",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_STG22.BIN",
+    "name": "P_STG22.BIN",
+    "size": 187274,
+    "md5": "831e516a007c539965caf71375906e18",
+    "sha256": "fb624205a38be92cf25f4568b3c2118fcff118eef972c4afb7c8700cecf56840",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_STG2C.BIN",
+    "name": "P_STG2C.BIN",
+    "size": 93088,
+    "md5": "ecc4507a198f48d1bbfac35267edd333",
+    "sha256": "8eb13b2014a6946544306399618f446241e04528bf55841e7c03634f33aefe30",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_STG30.BIN",
+    "name": "P_STG30.BIN",
+    "size": 425190,
+    "md5": "9874cf91e82ef552720871414c00720d",
+    "sha256": "9494ef27a136cd6afa92770d3cabd20bcc3bf53c03b8f03f73ecf9d4a28254af",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_STG31.BIN",
+    "name": "P_STG31.BIN",
+    "size": 399082,
+    "md5": "b95769319989063933cbbb240b329368",
+    "sha256": "2f8a4472200c2a35940e383fe7213dc7d2a47a35dc7a6fe94bd83652dfdfcd8a",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_STG32.BIN",
+    "name": "P_STG32.BIN",
+    "size": 670722,
+    "md5": "da65556a27bad6deb55afd41d35db191",
+    "sha256": "ae943a94fc037397f16c9bebbcfa32076f0efe8736a6069c8fa18edce6bd3b1f",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/P_STG3C.BIN",
+    "name": "P_STG3C.BIN",
+    "size": 100418,
+    "md5": "af6c9b7b503f617e0d80854937e36f42",
+    "sha256": "565cbe8d8bae710c9eaea82883a51f8978e67d1358857f98a5a37c733a484b12",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/SCENE10.BIN",
+    "name": "SCENE10.BIN",
+    "size": 99236,
+    "md5": "1b3976622c4324085ea298bf824d635d",
+    "sha256": "da71338c32762e3270ca2d0d62a4fac7911e0c7fb4ea9ff60e6ce0e9f1bbf537",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/SCENE11.BIN",
+    "name": "SCENE11.BIN",
+    "size": 82756,
+    "md5": "6563208eacedfbc742eec7d590d06bb7",
+    "sha256": "cbe834f52eb67b767038e707f325944d97ae654168ee0f050f3a6dfc1c0e520a",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/SCENE12.BIN",
+    "name": "SCENE12.BIN",
+    "size": 70920,
+    "md5": "1f367bcaf5fe780c5595ed466e0df510",
+    "sha256": "09dc1b6f99d2f4c7cf7b2123f7667b53bf112104bf513d762dd9c62c830470d8",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/SCENE20.BIN",
+    "name": "SCENE20.BIN",
+    "size": 46964,
+    "md5": "dfa806246d5f23199706a0854d1488f0",
+    "sha256": "5431c5444ebf68ddb2d71b4a430067ad4d82e0af3f18a839fd11c8300e043d20",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/SCENE21.BIN",
+    "name": "SCENE21.BIN",
+    "size": 23428,
+    "md5": "2eee96462ec861a7fc43db160709a40a",
+    "sha256": "7bd863527594f687f5cf00ab7834addb12959da1ec757e490fbfa6c1f0fe0c5e",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/SCENE22.BIN",
+    "name": "SCENE22.BIN",
+    "size": 34708,
+    "md5": "5b5e9ee43aff359674721bb56ed201ca",
+    "sha256": "8e773ea5d37f0e7807142822443bc1c339d14b80366a13df18dca64ca6ffd1f3",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/SCENE30.BIN",
+    "name": "SCENE30.BIN",
+    "size": 36008,
+    "md5": "9efda10a00d06c0a702be0bcdb423540",
+    "sha256": "210e90996a122252e85acd6f8f518b91f53b2e45ab569dbfc504a56335fc7a40",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/SCENE31.BIN",
+    "name": "SCENE31.BIN",
+    "size": 65508,
+    "md5": "9c03b8b02811fa0445f6b7c25f1b2af4",
+    "sha256": "042302a4c53a2d9b209f0775db21a287dbf662bf6a14b56f29d6618176474a9b",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/SCENE32.BIN",
+    "name": "SCENE32.BIN",
+    "size": 85920,
+    "md5": "db23d89803a26bd4374e482964d902b9",
+    "sha256": "fcb3131ec67fa7f184ac4864f0b2c714ca5fa919dfc94d2cfc90215d849886bd",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/SCENEAD.BIN",
+    "name": "SCENEAD.BIN",
+    "size": 19864,
+    "md5": "49de261e453bb7d92a44b72f35068b73",
+    "sha256": "058d907bf6d72305f3d6fbe7bb09456cd35671e2fc545a7e1ba4b49d499962d1",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/SCENEFA.BIN",
+    "name": "SCENEFA.BIN",
+    "size": 24852,
+    "md5": "88711ffdc2f5aeb17ffe9345a5200f62",
+    "sha256": "4037c490d70fc2294578fdb74d3917a87c7be7dff407546339c898d3178a986c",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_ADV.BIN",
+    "name": "T_ADV.BIN",
+    "size": 1353289,
+    "md5": "3af8bae1c6cd5f0ddd45cf8fb98fa3a6",
+    "sha256": "1c7a6433b2676ba0a5d967618df765778624c4a0e8efd6126629d95719ed2be0",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_COMMON.BIN",
+    "name": "T_COMMON.BIN",
+    "size": 1148215,
+    "md5": "a5748fe806e5d6aa4dc6fda6240053e1",
+    "sha256": "ef1c9a624c64a834d878787e00e1ba32cf6ac05e620f687a15be275cb881db53",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_FANG.BIN",
+    "name": "T_FANG.BIN",
+    "size": 1120238,
+    "md5": "041fa517c2820665edf580c9e29bdddd",
+    "sha256": "b3c4d7d70d935352d911b4e6db7df5337d5310d21ec49eaba4ba57cf37ff46fa",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_LOGO.BIN",
+    "name": "T_LOGO.BIN",
+    "size": 196608,
+    "md5": "667160bb8e4f26ee6be4c5d6c48a9218",
+    "sha256": "8741c38b4cfa764b2f347775921bfae0d14dbafb91b5775f144271058a57446a",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_MINI_C.BIN",
+    "name": "T_MINI_C.BIN",
+    "size": 3648140,
+    "md5": "fdd7305f0ea678aa535b3c9910428381",
+    "sha256": "59b448a8aefcf43e5e6b1203505e2b59f6e6023a234fa1cef734d014443c82ff",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_RANK.BIN",
+    "name": "T_RANK.BIN",
+    "size": 478272,
+    "md5": "e1936c638ed27fbe7aa4e5a70cd2dc0b",
+    "sha256": "90366ea79998f05793343d7802c19131a5743721a72a24b37220abe8793fcecd",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_SELECT.BIN",
+    "name": "T_SELECT.BIN",
+    "size": 707571,
+    "md5": "e322785becb8759a36bf3c6ea2c62bdd",
+    "sha256": "301e473310062e753e2ecad79e2b141c5c2dbe138f0dba767bfe67e58db8b285",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_STG10.BIN",
+    "name": "T_STG10.BIN",
+    "size": 813760,
+    "md5": "90f6663540d15f372a82abd7ebc5c680",
+    "sha256": "1e5dc4d189dc87e2034f3cad0901b3a3b6218eaa6cc4e977ccb70e59af9cbb62",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_STG11.BIN",
+    "name": "T_STG11.BIN",
+    "size": 446192,
+    "md5": "1df8b7bdc88f82a492c8286a44e7e713",
+    "sha256": "4bc5da04cfc101103928506f1f6d430895c022d89c4e879281af9e39d12eb6b1",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_STG12.BIN",
+    "name": "T_STG12.BIN",
+    "size": 687176,
+    "md5": "3bb708c3317d7a01eaee974a7a817eb4",
+    "sha256": "847e0777c603f370ca7dd6c34a92cb24659527f500271e4a7b4e80ef5e50645c",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_STG1C.BIN",
+    "name": "T_STG1C.BIN",
+    "size": 312254,
+    "md5": "42f7fadb4f73f711f169a0ad5f1c4498",
+    "sha256": "48a6ab972789124666e66d51b5bde65b51cfe4a3b9a39a9abc74b9aaffd37ec3",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_STG20.BIN",
+    "name": "T_STG20.BIN",
+    "size": 498232,
+    "md5": "a5ce691c4ff1a11e3a4f8a136a221adb",
+    "sha256": "4deccf693be0aa8533c5f5ab6637af2e169ed8451126e3092e5a5f864a8fc391",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_STG21.BIN",
+    "name": "T_STG21.BIN",
+    "size": 263032,
+    "md5": "103a8c9f8ec57535c770b1e1f918b374",
+    "sha256": "e323988c3649a361cd93f200178297e843a45d03bf5a4df6cdbb5b767ac6d14c",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_STG22.BIN",
+    "name": "T_STG22.BIN",
+    "size": 279320,
+    "md5": "8890f2669e6ef73c8f4bc97eab6d1235",
+    "sha256": "335daf695622ebeeae10a808e3302df59418d950921aea89572a39416f0b0456",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_STG2C.BIN",
+    "name": "T_STG2C.BIN",
+    "size": 435546,
+    "md5": "70af08036b3dff031c0706f214233107",
+    "sha256": "54a6049617250fcf7367f586d185d7783b2d6a551be1a7d150ddd767301d982c",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_STG30.BIN",
+    "name": "T_STG30.BIN",
+    "size": 215152,
+    "md5": "f2cd68b46f4c819f87f8fdb74885e5a7",
+    "sha256": "1c165f8a5e12f497c978631bc0e2b70f2dec2527457789d18cd985a61b6e124a",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_STG31.BIN",
+    "name": "T_STG31.BIN",
+    "size": 422744,
+    "md5": "f602b4f830f39d38fccf8c107da2ba44",
+    "sha256": "a6b217b02f618b2afa1b464d936c5ac35e3fff5df839608a94c2706fb7affc96",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_STG32.BIN",
+    "name": "T_STG32.BIN",
+    "size": 506240,
+    "md5": "1b6a5fc7522a4a1152b87a3f65f5e179",
+    "sha256": "aad6c19f760d9cb5e9bc710904d7742ba4fff3276dd7ea84e8a4f48a05b4b403",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_STG3C.BIN",
+    "name": "T_STG3C.BIN",
+    "size": 224598,
+    "md5": "a66f686316edac2f0ae5b231cd82fac1",
+    "sha256": "b6c73855ed61964371454fdd954c134b26d2aa9d26b6469e8aacc7e39b104f5d",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/BIN/T_TITLE.BIN",
+    "name": "T_TITLE.BIN",
+    "size": 370780,
+    "md5": "657396b1de76912548892f4506759a40",
+    "sha256": "7021f4715359753a9354876121c6da06a620c35677471b690aa4d11f5c1f4a5c",
+    "category": "Level / Motion Model",
+    "ext": ".BIN"
+  },
+  {
+    "path": "Game Files/CLASS.EXE",
+    "name": "CLASS.EXE",
+    "size": 58247,
+    "md5": "e76c9f9745cee5fcfac4f55048762db2",
+    "sha256": "297da46ad61e8c747553658c09eeea05aa82080724d050c9caf7a9762d84ed3e",
+    "category": "Executable / Library",
+    "ext": ".EXE"
+  },
+  {
+    "path": "Game Files/DDGL.DLL",
+    "name": "DDGL.DLL",
+    "size": 338432,
+    "md5": "ee0aad55ce27605c55b4bb08688820ea",
+    "sha256": "50f609ebf7ab872bda838d7aaeb76bb0d8fef88118e5fc9a93aa766780ae7ec2",
+    "category": "Executable / Library",
+    "ext": ".DLL"
+  },
+  {
+    "path": "Game Files/DPCTRL.DLL",
+    "name": "DPCTRL.DLL",
+    "size": 40960,
+    "md5": "3a0bc7df5e196b964661e33db6710992",
+    "sha256": "e83dcceae4fb4ffeff29a47fe0190ae63a6f910203c364c2f5efa85ed3ac1ea2",
+    "category": "Executable / Library",
+    "ext": ".DLL"
+  },
+  {
+    "path": "Game Files/HGL_D3D.DLL",
+    "name": "HGL_D3D.DLL",
+    "size": 111616,
+    "md5": "a81252bb9dc6dca49e2fa29ef26a9c19",
+    "sha256": "cf70eca20b1554065958328e6d639c6c34ba2114293caa514755811408f4803d",
+    "category": "Executable / Library",
+    "ext": ".DLL"
+  },
+  {
+    "path": "Game Files/HGL_DD.DLL",
+    "name": "HGL_DD.DLL",
+    "size": 54272,
+    "md5": "a1cb0bdb11d3ac1dc5277d963cf01d6d",
+    "sha256": "6cdad5094ea08736da042a3a6abfa109a8e986acedc9b937e56756f4e542c77f",
+    "category": "Executable / Library",
+    "ext": ".DLL"
+  },
+  {
+    "path": "Game Files/OPENING.BMP",
+    "name": "OPENING.BMP",
+    "size": 85558,
+    "md5": "281ca4c585fc5fe55a5f221efb9fa3c5",
+    "sha256": "2950f18a53afa9d557999c450a1feebbb08fc12f3ee1f800fce8c96a53089cc5",
+    "category": "Graphic Texture",
+    "ext": ".BMP"
+  },
+  {
+    "path": "Game Files/PG_STG1.DLL",
+    "name": "PG_STG1.DLL",
+    "size": 904704,
+    "md5": "5f1bd2e0333a5ac581089acb85b7161a",
+    "sha256": "d3ac106259677d253b7cf2d77b6eec29757677ecddac4ae937a74b0a1ded3996",
+    "category": "Executable / Library",
+    "ext": ".DLL"
+  },
+  {
+    "path": "Game Files/PG_STG2.DLL",
+    "name": "PG_STG2.DLL",
+    "size": 486400,
+    "md5": "65474e64cf44c6cd2341916d51a99e72",
+    "sha256": "96879202342bc0c0722c1d5312b1cfdd2e573313a5f1b0e505a55b6b244a97a0",
+    "category": "Executable / Library",
+    "ext": ".DLL"
+  },
+  {
+    "path": "Game Files/PG_STG3.DLL",
+    "name": "PG_STG3.DLL",
+    "size": 1101824,
+    "md5": "98c0a85317e2ce91a3e855109b1c8e22",
+    "sha256": "29cc4eb471895706ed9e2300c1f25df06291011bb805ca401b9b70c811dd9df7",
+    "category": "Executable / Library",
+    "ext": ".DLL"
+  },
+  {
+    "path": "Game Files/PLEASE.BMP",
+    "name": "PLEASE.BMP",
+    "size": 85558,
+    "md5": "5011cfbf35c3a5e80f47748c1456b2cb",
+    "sha256": "0dcf0f9dcdda147896fd6078202694e531245f41ed317dced64f681cf471320e",
+    "category": "Graphic Texture",
+    "ext": ".BMP"
+  },
+  {
+    "path": "Game Files/ppj2dd.exe",
+    "name": "ppj2dd.exe",
+    "size": 992768,
+    "md5": "872386573d809392d049c84c775a469f",
+    "sha256": "c7a7389c18a1236250ebf85c8488e1fd70cc0c5113bed081515860dbc0352ce8",
+    "category": "Executable / Library",
+    "ext": ".EXE"
+  },
+  {
+    "path": "Game Files/README.TXT",
+    "name": "README.TXT",
+    "size": 2882,
+    "md5": "9bba62c9bcca1615e5f5cb63793dbfcf",
+    "sha256": "be8d24bb972ae7fff52c58f310b58f9fd8877e49ec919a368bf322579b15b9ed",
+    "category": "Configuration / Documentation",
+    "ext": ".TXT"
+  },
+  {
+    "path": "Game Files/SE/SONG1.MDS",
+    "name": "SONG1.MDS",
+    "size": 97496,
+    "md5": "87621e636ef9062132f0bd3c88371942",
+    "sha256": "862838071b23f4e4aa93d5981a23812754cf7cd14ea71021970be4a4a1d1a606",
+    "category": "Audio / Sound Effect",
+    "ext": ".MDS"
+  },
+  {
+    "path": "Game Files/SE/SONG2.MDS",
+    "name": "SONG2.MDS",
+    "size": 14020,
+    "md5": "8241b5b8a1adb193706d0efe44d5c74f",
+    "sha256": "42a82b3256f8a10c91cfe3b610c85a4cb2e2b4097c8c0db461bb3a03597f7a66",
+    "category": "Audio / Sound Effect",
+    "ext": ".MDS"
+  },
+  {
+    "path": "Game Files/SE/SOUND11.WVP",
+    "name": "SOUND11.WVP",
+    "size": 1738826,
+    "md5": "9c780c211bdf5a37ce23bae30e579385",
+    "sha256": "8eac04cb4a8d39e4ef5b146ae56d5d4ee81b9ac1af7b190a38ef1a6a471b154c",
+    "category": "Audio / Sound Effect",
+    "ext": ".WVP"
+  },
+  {
+    "path": "Game Files/SE/SOUND12.WVP",
+    "name": "SOUND12.WVP",
+    "size": 185730,
+    "md5": "8016419f9cca7ab1b39fcac068bc3403",
+    "sha256": "0bbb4af73670ca6bd295d9f81570d5bc5828b812f1e29b6eafc0e9a73c908108",
+    "category": "Audio / Sound Effect",
+    "ext": ".WVP"
+  },
+  {
+    "path": "Game Files/SE/SOUND13.WVP",
+    "name": "SOUND13.WVP",
+    "size": 901146,
+    "md5": "1b6dd21c056dd4192134c9289cfc4c5c",
+    "sha256": "ab1a85468037d03d1d9d79ed7f788579f959e215aee91c258c2dc4e7ccb41c09",
+    "category": "Audio / Sound Effect",
+    "ext": ".WVP"
+  },
+  {
+    "path": "Game Files/SE/SOUND14.WVP",
+    "name": "SOUND14.WVP",
+    "size": 170770,
+    "md5": "33259da45f9584afd4572607a48f5990",
+    "sha256": "850d82bcfdd0ee020a0885453c695447a0bbdc1b061b7a5521eccd720acc03d1",
+    "category": "Audio / Sound Effect",
+    "ext": ".WVP"
+  },
+  {
+    "path": "Game Files/SE/SOUND15.WVP",
+    "name": "SOUND15.WVP",
+    "size": 0,
+    "md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "category": "Audio / Sound Effect",
+    "ext": ".WVP"
+  },
+  {
+    "path": "Game Files/VC2.CNT",
+    "name": "VC2.CNT",
+    "size": 755,
+    "md5": "da45d6e6f36f8938ed351b1bcdab20ce",
+    "sha256": "a5ef3870c29d7a6793d77a997d43e79fd7b2d5e85e941821abfafc8970a4cc96",
+    "category": "Configuration / Documentation",
+    "ext": ".CNT"
+  },
+  {
+    "path": "Game Files/VC2.EXE",
+    "name": "VC2.EXE",
+    "size": 959,
+    "md5": "7d06ba65ce81c1ec4eda846135ee673a",
+    "sha256": "24794e6450368de6d7f2785e916f980c93d214d9e238a2d8cab1049fa7b629f8",
+    "category": "Executable / Library",
+    "ext": ".EXE"
+  },
+  {
+    "path": "Game Files/VC2.HLP",
+    "name": "VC2.HLP",
+    "size": 1278692,
+    "md5": "5e31ccf2f03d0e12cb313b07ff50b9d4",
+    "sha256": "f7f7f1c88870ec659c1ef3e45eda088bf6e3da764fda463777a8256234d25fe6",
+    "category": "Configuration / Documentation",
+    "ext": ".HLP"
+  },
+  {
+    "path": "Game Files/VCOP2.INI",
+    "name": "VCOP2.INI",
+    "size": 3081,
+    "md5": "ae15f53404001f329600db062402f2e3",
+    "sha256": "cd38e9ca6ee6410a83eaf39b1bee78abfcd033b9af17e474a830aa6ed6e46556",
+    "category": "Configuration / Documentation",
+    "ext": ".INI"
+  },
+  {
+    "path": "Game Files/WINCPUID.DLL",
+    "name": "WINCPUID.DLL",
+    "size": 122368,
+    "md5": "8bfb3a851fb94cbf17039c4f4cea5ca7",
+    "sha256": "102439d25f0f753b718472c5ea48076d95bb67d9630c0d22897cb4386139fe2a",
+    "category": "Executable / Library",
+    "ext": ".DLL"
+  }
+]

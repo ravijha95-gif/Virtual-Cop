@@ -1,0 +1,6 @@
+{
+  "name": "Virtua Cop 2 Modernizer & Security Auditor",
+  "description": "Comprehensive security analysis, vulnerability audit, and modern high-DPI 4K graphics remastering suite for classic portable PC games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
